@@ -11,3 +11,5 @@ def hello() {
 hello()
 hello()
 hello()
+
+String b2 = 'master'

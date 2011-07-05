@@ -1,6 +1,6 @@
 import groovy.transform.Field
 
-
+String b1 = 'master'
 
 @Field String text = 'hello rebase world'
 

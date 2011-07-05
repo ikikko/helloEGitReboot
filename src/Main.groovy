@@ -9,3 +9,4 @@ def hello() {
 }
 
 hello()
+hello()

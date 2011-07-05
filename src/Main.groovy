@@ -2,7 +2,7 @@ import groovy.transform.Field
 
 
 
-@Field String text = 'hello'
+@Field String text = 'hello world'
 
 def hello() {
 	println text
